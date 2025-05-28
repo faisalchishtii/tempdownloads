@@ -1,4 +1,4 @@
-# aos-topology
+# config-pack
 
 ## Getting started
 
